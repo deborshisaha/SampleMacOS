@@ -9,8 +9,7 @@ import Cocoa
 
 @main
 class AppDelegate: NSObject, NSApplicationDelegate {
-
-    
+ 
     // First commit
 
     func applicationDidFinishLaunching(_ aNotification: Notification) {
